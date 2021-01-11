@@ -10,5 +10,5 @@ It should have an avatar, the name of the user and the message in from of the na
 The server can send text, audio or image and the chat should display accordingly.
 
 ### Socket
-Uses socket.io to connect to the server with propoer authentication.
-Provides an URL, authentication public key
+Uses socket.io to connect to the server with proper authentication.
+Provides an URL of the server, authentication public key, ...
